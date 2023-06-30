@@ -61,4 +61,7 @@ public class AttrEntity implements Serializable {
 	 */
 	private Integer showDesc;
 
+
+
+
 }

@@ -37,7 +37,7 @@ public class PageUtils implements Serializable {
 	 */
 	private int currPage;
 	/**
-	 * 列表数据
+	 * 列表数据,查询到的数据
 	 */
 	private List<?> list;
 	
